@@ -1,0 +1,41 @@
+{
+  "name": "next15-starter",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "class-variance-authority": "^0.7.1",
+    "clsx": "^2.1.1",
+    "lucide-react": "^0.469.0",
+    "next": "15.1.2",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "tailwind-merge": "^2.5.5",
+    "tailwindcss-animate": "^1.0.7"
+  },
+  "devDependencies": {
+    "@next/eslint-plugin-next": "^15.1.2",
+    "@tailwindcss/postcss": "4.0.0-beta.6",
+    "@tailwindcss/typography": "^0.5.15",
+    "@types/node": "^20",
+    "@types/react": "^19.0.2",
+    "@types/react-dom": "^19",
+    "eslint": "^8.57.1",
+    "eslint-config-next": "15.1.2",
+    "eslint-config-prettier": "^9.1.0",
+    "eslint-plugin-import": "^2.31.0",
+    "eslint-plugin-jsx-a11y": "^6.10.2",
+    "eslint-plugin-prettier": "^5.2.1",
+    "eslint-plugin-react": "^7.37.2",
+    "eslint-plugin-react-hooks": "^5.1.0",
+    "postcss": "^8",
+    "prettier-plugin-tailwindcss": "^0.6.9",
+    "tailwindcss": "4.0.0-beta.6",
+    "typescript": "^5"
+  }
+}
